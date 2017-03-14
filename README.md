@@ -1,5 +1,5 @@
 # numbers-list
-This is a text that contains numbers
+This is a .md that contains numbers
 
 One
 
